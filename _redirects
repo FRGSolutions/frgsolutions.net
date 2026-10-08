@@ -1,0 +1,5 @@
+# Old FRG domains forward to their division pages
+https://frghandyman.com/*          https://frgsolutions.net/handyman      301!
+https://www.frghandyman.com/*      https://frgsolutions.net/handyman      301!
+https://frgconstructions.com/*     https://frgsolutions.net/construction  301!
+https://www.frgconstructions.com/* https://frgsolutions.net/construction  301!
